@@ -1,0 +1,23 @@
+DECIMAL NUMBER SYSTEM (Base 10)
+Digits(10 in total) = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+Place Values = 1s, 10s, 100s, 1000s, ...
+
+The decimal number system has a base of 10 because it uses ten
+digits from 0 to 9. In the decimal number system, the positions
+successive to the left of the decimal point represent units, tens,
+hundreds, thousands and so on. This system is expressed in decimal
+numbers. Every position shows a particular power of the base (10).
+
+Example of Decimal Number System:
+
+The decimal number 1,457 consists of the digit 7 in the units
+position, 5 in the tens place, 4 in the hundreds position, and
+1 in the thousands place whose value can be written as:
+
+(1 x 10**3) + (4 x 10**2) + (5 x 10**1) + (7 x 10**1)
+
+(1 x 1000) + (4 x 100) + (5 x 10) + (7 x 1)
+
+1000 + 400 + 50 + 7
+
+1457

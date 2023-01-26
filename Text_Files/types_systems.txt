@@ -1,0 +1,13 @@
+There are various types of number systems in mathematics.
+The four most common number system types are:
+
+  Decimal number system (Base-10)
+		The number system we use every day
+
+	Binary number system (Base-2)
+		The number system computers read
+
+	Octal number system (Base-8)
+
+	Hexadecimal number system (Base-16)
+		Number system often used to define colors

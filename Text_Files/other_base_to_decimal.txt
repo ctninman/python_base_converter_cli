@@ -1,0 +1,13 @@
+Other Base System to Decimal System
+
+Steps
+
+Step 1 − Determine the column (positional) value of each digit
+(this depends on the position of the digit and the base of the
+number system).
+
+Step 2 − Multiply the obtained column values (in Step 1) by the
+digits in the corresponding columns.
+
+Step 3 − Sum the products calculated in Step 2. The total is the
+equivalent value in decimal.

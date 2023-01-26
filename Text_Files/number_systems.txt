@@ -1,0 +1,13 @@
+A number system is defined as a system of writing to express
+numbers. It is the mathematical notation for representing
+numbers of a given set by using digits or other symbols in a
+consistent manner. It provides a unique representation of every
+number and represents the arithmetic and algebraic structure of
+the figures. It also allows us to operate arithmetic operations
+like addition, subtraction, multiplication and division.
+
+The value of any digit in a number can be determined by:
+
+	The digit
+	Its position in the number
+	The base of the number system

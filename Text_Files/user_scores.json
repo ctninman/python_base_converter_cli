@@ -1,0 +1,77 @@
+{
+    "base2": {
+        "base": 2,
+        "correct": 8,
+        "answered": 10
+    },
+    "base3": {
+        "base": 3,
+        "correct": 1,
+        "answered": 1
+    },
+    "base4": {
+        "base": 4,
+        "correct": 1,
+        "answered": 1
+    },
+    "base5": {
+        "base": 5,
+        "correct": 1,
+        "answered": 1
+    },
+    "base6": {
+        "base": 6,
+        "correct": 0,
+        "answered": 0
+    },
+    "base7": {
+        "base": 7,
+        "correct": 0,
+        "answered": 0
+    },
+    "base8": {
+        "base": 8,
+        "correct": 0,
+        "answered": 0
+    },
+    "base9": {
+        "base": 9,
+        "correct": 0,
+        "answered": 0
+    },
+    "base11": {
+        "base": 11,
+        "correct": 0,
+        "answered": 0
+    },
+    "base12": {
+        "base": 12,
+        "correct": 0,
+        "answered": 0
+    },
+    "base13": {
+        "base": 13,
+        "correct": 0,
+        "answered": 0
+    },
+    "base14": {
+        "base": 14,
+        "correct": 0,
+        "answered": 0
+    },
+    "base15": {
+        "base": 15,
+        "correct": 0,
+        "answered": 0
+    },
+    "base16": {
+        "base": 16,
+        "correct": 0,
+        "answered": 0
+    },
+    "total": {
+        "base": 101,
+        "correct": 11,
+        "answered": 13
+    }
+}

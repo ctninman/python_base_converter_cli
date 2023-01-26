@@ -1,0 +1,20 @@
+HEXADECIMAL NUMBER SYSTEM (Base 16)
+Digits(16 in total) = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+Place Values = 1s, 16s, 256s, 4096s, ...
+
+In the hexadecimal system, numbers are written or represented with
+base 16. In the hexadecimal system, the numbers are first represented
+just like in the decimal system, i.e. from 0 to 9. Then, the numbers
+are represented using the alphabet from A to F. 
+
+Example: Convert 300 (base 10) to hexadecimal (base 16)
+
+(1 x 16**2) + (1 x 16**1) + (0 x 16**0)
+
+(1 x 256) + (2 x 16) + (12 (or 'C') x 1)
+
+12C
+
+256 + 32 + 12
+
+12C in hexadecimal = 300 in decimal

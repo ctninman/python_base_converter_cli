@@ -1,0 +1,22 @@
+BINARY NUMBER SYSTEM (Base 2)
+Digits(2 in total) = 0, 1
+Place Values = 1s, 2s, 4s, 8s, 16s, 32s, 64s, ...
+
+The base 2 number system is also known as the Binary number
+system wherein, only two binary digits exist, i.e., 0 and 1.
+Specifically, the usual base-2 is a radix of 2. The figures
+described under this system are known as binary numbers which
+are the combination of 0 and 1. For example, 110101 is a binary
+number.
+
+Example: Convert 13 (base 10) to binary (base 2)
+
+(1 x 2**4) + (1 x 2**3) + (0 x 2**2) + (1 x 2**1)
+
+(1 x 8) + (1 x 4) + (0 x 2) + (1 x 1)
+
+1101
+
+8 + 4 + 0 + 1
+
+1101  in binary = 13 in decimal
